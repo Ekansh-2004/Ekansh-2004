@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech CSE @ **LNMIIT Jaipur** — CGPA **9.36/10**
+- 🎓 B.Tech CSE @ **LNMIIT Jaipur** 
 - 🤖 Currently engineering an **Aware Adaptive Tutoring System** — a RAG pipeline that personalises learning in real-time
 - 🧠 Deep interest in **Generative AI**, **LangChain**, and **retrieval-augmented systems**
 - ⚔️ Strong DSA fundamentals in C++
